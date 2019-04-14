@@ -1,1 +1,0 @@
-source/formatCitation.sh

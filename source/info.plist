@@ -206,9 +206,9 @@
 				<key>destinationuid</key>
 				<string>BD9B63B6-FCA5-48E0-8949-E8A824A28902</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string></string>
+				<string>Paste Pandoc style citation [@Citation]</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -216,7 +216,7 @@
 				<key>destinationuid</key>
 				<string>D5390C3E-D89A-4E54-BFE3-36C24C54DF3E</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -269,9 +269,9 @@
 				<key>destinationuid</key>
 				<string>BD9B63B6-FCA5-48E0-8949-E8A824A28902</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string></string>
+				<string>Paste Pandoc style citation [@Citation]</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -279,7 +279,7 @@
 				<key>destinationuid</key>
 				<string>D5390C3E-D89A-4E54-BFE3-36C24C54DF3E</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -521,9 +521,9 @@
 				<key>destinationuid</key>
 				<string>BD9B63B6-FCA5-48E0-8949-E8A824A28902</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string></string>
+				<string>Paste Pandoc style citation [@Citation]</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -531,7 +531,7 @@
 				<key>destinationuid</key>
 				<string>D5390C3E-D89A-4E54-BFE3-36C24C54DF3E</string>
 				<key>modifiers</key>
-				<integer>1048576</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>vitoclose</key>
@@ -1029,11 +1029,11 @@ fi</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>41</integer>
+				<integer>39</integer>
 				<key>hotmod</key>
-				<integer>1572864</integer>
+				<integer>1966080</integer>
 				<key>hotstring</key>
-				<string>;</string>
+				<string>"</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1364,11 +1364,9 @@ echo "[@$BIBKEY]" | tr -d '\n' | pbcopy</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>41</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>1835008</integer>
-				<key>hotstring</key>
-				<string>;</string>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1469,11 +1467,9 @@ echo "[@$BIBKEY]" | tr -d '\n' | pbcopy</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>41</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>1048576</integer>
-				<key>hotstring</key>
-				<string>;</string>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1600,11 +1596,11 @@ end run</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>13</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>1966080</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>W</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1887,11 +1883,11 @@ echo "[#$BIBKEY]: $REFNAME" | pbcopy -Prefer txt</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>41</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>1179648</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>:</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -2101,11 +2097,11 @@ echo "[^$BIBKEY]: $REFNAME" | pbcopy -Prefer txt</string>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>0</integer>
+				<integer>29</integer>
 				<key>hotmod</key>
-				<integer>0</integer>
+				<integer>1966080</integer>
 				<key>hotstring</key>
-				<string></string>
+				<string>0</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
